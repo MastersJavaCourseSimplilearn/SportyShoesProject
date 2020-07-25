@@ -71,14 +71,3 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
-
-##############################
-## Visual Studio Code
-##############################
-.vscode/
-.code-workspace
-
-##############################
-## OS X
-##############################
-.DS_Store
